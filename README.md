@@ -13,7 +13,7 @@ This repository contains a middleware designed to convert functionality similar 
    ```
 2. 安装依赖项：
    ```bash
-   npm install express winston axios crypto uuid
+   npm install
    ```
 
 ### 配置说明
