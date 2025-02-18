@@ -1,4 +1,4 @@
-# express-ollama2openai
+# express-ollama2openapi
 This repository contains a middleware designed to convert functionality similar to Ollama's API into OpenAI's style
 
 
@@ -9,7 +9,7 @@ This repository contains a middleware designed to convert functionality similar 
 1. 克隆仓库：
    ```bash
    git clone <仓库地址>
-   cd express-ollama2openai
+   cd express-ollama2openapi
    ```
 2. 安装依赖项：
    ```bash
